@@ -1,0 +1,74 @@
+"100-200-3-50.txt"
+Vreme izvrsavanja: 6788.22
+Broj iteracija: 230427
+Broj cvorova: 857
+Status: Feasible
+Vrednost funkcije cilja: 196
+Vreme izvrsavanja_clock:7200.91
+Gap:0.994898
+
+"100-200-6-50.txt"
+Vreme izvrsavanja: 8078.94
+Broj iteracija: 150019
+Broj cvorova: 89
+Status: Feasible
+Vrednost funkcije cilja: 196
+Vreme izvrsavanja_clock:7200.57
+Gap:0.994898
+
+"100-200-10-50.txt"
+Vreme izvrsavanja: 11123.6
+Broj iteracija: 423386
+Broj cvorova: 58
+Status: Feasible
+Vrednost funkcije cilja: 181
+Vreme izvrsavanja_clock:7200.46
+Gap:1
+
+100-300 nece
+100-200-3-100 nece
+
+"100-150-3-50.txt"
+Vreme izvrsavanja: 10391.8
+Broj iteracija: 478286
+Broj cvorova: 686
+Status: Feasible
+Vrednost funkcije cilja: 147
+Vreme izvrsavanja_clock:7200.79
+Gap:1
+
+"100-150-6-50.txt"
+Vreme izvrsavanja: 11649.9
+Broj iteracija: 787808
+Broj cvorova: 408
+Status: Feasible
+Vrednost funkcije cilja: 134
+Vreme izvrsavanja_clock:7200.48
+Gap:1
+
+"100-150-10-50.txt"
+Vreme izvrsavanja: 9024.47
+Broj iteracija: 502727
+Broj cvorova: 302
+Status: Feasible
+Vrednost funkcije cilja: 131
+Vreme izvrsavanja_clock:7200.59
+Gap:1
+
+"100-150-3-100.txt"
+Vreme izvrsavanja: 10279.1
+Broj iteracija: 538252
+Broj cvorova: 81
+Status: Feasible
+Vrednost funkcije cilja: 135
+Vreme izvrsavanja_clock:7201.1
+Gap:1
+
+"100-150-6-100.txt"
+Vreme izvrsavanja: 12003
+Broj iteracija: 915512
+Broj cvorova: 320
+Status: Feasible
+Vrednost funkcije cilja: 130
+Vreme izvrsavanja_clock:7200.45
+Gap:1
