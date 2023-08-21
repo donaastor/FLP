@@ -217,7 +217,6 @@ struct primer{
 		static const char *zevs="||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||";
 		for(int i=0;i<INS;++i)ie[i].pocni(this);
 		int res=maxres();
-			printf("res( 0): %d\n",res);
 		if(res<=goal){
 			it=0;
 			for(int i=0;i<INS;++i)ie[i].skoncaj();
@@ -235,7 +234,6 @@ struct primer{
 			fflush(stdout);
 			ispiso=nisp;
 			res=maxres();
-			printf("res(%2d): %d\n",j,res);
 			if((ng==false)&(res<=goal)){
 				ng=true;
 				zavi=j*2;
